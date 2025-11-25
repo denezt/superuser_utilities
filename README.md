@@ -18,7 +18,7 @@ need to automate complex system interactions.
 To use these utilities, simply clone or download this repository:
 
 ```bash
-git clone https://github.com/denezt/superuser_utilities.git
+git clone https://github.com/denezt/automation_utilities.git
 ```
 
 Make sure you have the required dependencies installed on your system. The exact requirements may vary depending on your operating system and environment.
